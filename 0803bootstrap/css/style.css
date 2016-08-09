@@ -1,0 +1,166 @@
+
+*{
+	padding:0;
+	margin:0;
+}
+li{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+html,body{
+	width: 100%;
+	height:100%
+}
+*,*:before,*:after{
+	-webkit-box-sizing:border-box;
+}
+.wrap{
+	width: 100%;
+	height:100%;
+}
+.container{
+	width: 100%;
+	padding:0;
+	margin:0;
+}
+.r1{
+	height:.80rem;
+	background:#817670;
+	position:relative;
+}
+.r1 span.logo{
+	width: 3rem;
+	height:.7rem;
+	background: #DBDBDD;
+	position: absolute;
+	left:.8rem;
+	top:50%;
+	margin-top:-.35rem;
+	text-align:center;
+	line-height: .7rem;
+	font-size: .22rem;
+	font-weight: 800;
+}
+.r1 ul.nav-pills{
+	background:#817670;
+	padding-top: .09rem;
+	width: 9.4rem;
+	margin-left: 3.9rem;
+}
+.r1 ul a{
+	color: #ccc;
+}
+.h1{
+	height: .5rem;
+	line-height: .5rem;
+	font-size: .14rem;
+	color: #1BA0E1;
+	padding-left:.8rem;
+}
+.r2{
+	background: #fff;
+	overflow: hidden;
+}
+.r2 .l{
+	width: 5.23rem;
+	float:left;
+	padding-left: .8rem;
+}
+.r2 .l h1{
+	font-size: .24rem;
+	background: url(../img/4.jpg) no-repeat left center;
+	padding-left: .14rem;
+}
+.r2 .r{
+	float:left;
+	padding-left: .5rem;
+}
+.r2 .img1{
+	width: 100%;
+	height: 5.02rem;
+}
+.r2 .img2{
+	width: 100%;
+	height: 5.92rem;
+	padding-bottom: .2rem;
+}
+.r2 .img3{
+	width: 100%;
+	height: 6.88rem;
+	
+}
+.r2 .hh{
+	font-size: .24rem;
+	background: url(../img/4.jpg) no-repeat left center;
+	padding-left: .14rem;
+}
+.r2 hr{
+	background: #999;
+}
+.r2 p a{
+	padding:.08rem .12rem;
+	color: #fff;
+	background: #1BA0E1;
+	border-radius: 5px;
+	margin-right: .05rem;
+	margin-bottom: .05rem;
+	height: .3rem;
+	line-height: .3rem;
+}
+.r2 .lunbo{
+	height: .64rem;
+	margin:.1rem;
+	background: #BBBBBB;
+}
+.r2 ul{
+	padding-bottom: .2rem;
+}
+.r2 ul li{
+	line-height: 0.25rem; 
+}
+.r3 b{
+	color:#fff;
+}
+.r3{
+	clear: both;
+	height: 2.66rem;
+	background:#3E4746;
+	padding:.8rem 1.2rem 1.18rem;
+	color:#ccc;
+}
+.r3 ul{
+	float: left;
+	width: 2.28rem;
+}
+.r3 ul.ul{
+	width: 3.6rem;
+}
+.r3 li input{
+	float: left;
+	color: #ccc;
+	padding-left: 5px;
+	line-height: .3rem;
+	display:inline-block;
+	height: .3rem;
+	border-radius: 5px;
+	border:none;
+}
+.r3 li button{
+	height:.3rem;
+	display:inline-block;
+	float: left;
+	margin-left:.05rem;
+	background: none;
+	border:1px solid #fff;
+	line-height: .3rem;
+}
+.r3 li{
+	line-height:.38rem;
+}
+.r3 p{
+	width: 100%;
+	text-align: center;
+	clear: both;
+}
